@@ -1,8 +1,10 @@
 body {
   color: blue;
+  text-align: center;
 }
 
 ul {
   list-style-type: none;
+  display: inline-block;
   text-align: center;
 }
