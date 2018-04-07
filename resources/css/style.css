@@ -1,10 +1,15 @@
 body {
   color: blue;
   text-align: center;
+  font-family: helvetica;
 }
 
 ul {
   list-style-type: none;
   display: inline-block;
   text-align: center;
+}
+.flatiron, .new-york {
+  background-image: url("../images/building.png");
+  color: red;
 }
